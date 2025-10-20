@@ -1,8 +1,8 @@
+streamlit
 numpy
 pandas
-scikit-learn
-xgboost
-streamlit
-cloudpickle
 matplotlib
 seaborn
+scikit-learn
+cloudpickle
+joblib
